@@ -144,12 +144,16 @@ label {
 	max-width: 100%;
 	height: auto;
 	border-radius: 25px;
+	padding-bottom: 10px;
+
 }
 
 
 .item {
 	margin: 10px;
 	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 
